@@ -3,7 +3,7 @@ import './trendingNfts.css'
 import { Container, Row, Col } from 'reactstrap'
 import { Link } from 'react-router-dom'
 import NftCard from '../NFTCard/NftCard'
-import { NFT__DATA } from '../../../assets/data/data.js';
+import { NFT__DATA } from '../../../assets/data/data';
 
 const TrendingNfts = () => {
   return (<section>

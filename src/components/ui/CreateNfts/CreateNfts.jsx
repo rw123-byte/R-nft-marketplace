@@ -5,25 +5,25 @@ import './createNfts.css'
 
 const STEP__DATA = [
     {
-        tittle:'Setup your wallet',
+        title:'Setup your wallet',
         desc: 'Once you have set up your wallet of choice, connect it to OpenSea by clicking the wallet icon in the top right corner.learn about the wallets we support.',
         icon:'ri-wallet-line'
     },
    
     {
-        tittle:'Create and upload your Collection',
+        title:'Create and upload your Collection',
         desc:'Upload your work then click My Collections and set up your collection.Add social links,a description,profile & banner images and set a secondary sales.',
         icon:'ri-file-upload-line'
     },
 
  {
-        tittle:'Add your NFTs',
+        title:'Add your NFTs',
         desc: 'Add social links,a description,profile & banner images and set a secondary sales fee.Choose between auctions,fixed-price listings.',
         icon:'ri-image-line'
     },
 
     {
-        tittle:'List them for sale',
+        title:'List them for sale',
         desc: 'Choose between auctions,fixed-price listings and declining-price listings.You choose how you want to sell your NFTs, and we help you sell.',
         icon:'ri-bookmark-2-line'
     },
@@ -47,7 +47,7 @@ const CreateNfts = () =>{
                 </span>
                 <div className='step_item_content'>
                     <h5>
-                         <Link to ='/wallet'>{item.title}</Link>
+                         <Link to ="/wallet">{item.title}</Link>
                     </h5>
                     <p className='mb-0'>{item.desc}</p>
                 </div>
