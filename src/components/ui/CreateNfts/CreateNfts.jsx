@@ -11,8 +11,8 @@ const STEP__DATA = [
     },
    
     {
-        title:'Create and upload your Collection',
-        desc:'Upload your work then click My Collections and set up your collection.Add social links,a description,profile & banner images and set a secondary sales.',
+        title:'Create your Collection',
+        desc:'Add social links,a description,profile & banner images and set a secondary sales fee.Choose between auctions,fixed-price listings.',
         icon:'ri-file-upload-line'
     },
 

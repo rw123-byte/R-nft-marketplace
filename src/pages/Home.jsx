@@ -1,5 +1,4 @@
 import React from 'react';
-import { Container } from 'reactstrap';
 import Hero from '../components/ui/Hero';
 import TrendingNfts from '../components/ui/TrendingNfts/TrendingNfts';
 import SellerSection from '../components/ui/SellerSection/SellerSection';
