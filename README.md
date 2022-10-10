@@ -13,6 +13,9 @@ Wekesa-Ruth
 ## github link
 https://github.com/rw123-byte/R-nft-marketplace
 
+## deployment link
+http://r-nft-marketplace.vercel.app/
+
 ## Requirements
 User must have access to a computer.
 User must be connected to the internet.
