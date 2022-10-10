@@ -12,9 +12,7 @@ const TrendingNfts = () => {
             <Col lg='12' mb='5'>
                 <div className='trending_nfts_top d-flex align-items-center'>
                     <h3>Trending NFTs</h3>
-                    <span>
-                        <Link to ='/market'>Explore more</Link>
-                        </span>
+                    
                 </div>
             </Col>
 
