@@ -18,7 +18,7 @@ import ava06 from "../images/ava-06.png";
 export const NFT__DATA = [
   {
     id: "01",
-    title: "Travel Monkey Club",
+    title: "Monkey Ape",
     imgUrl: img01,
     creator: "Trista Francis",
     creatorImg: ava01,
@@ -80,7 +80,7 @@ export const NFT__DATA = [
 
   {
     id: "08",
-    title: "Guard",
+    title: "Elite Ape",
     imgUrl: img08,
     creator: "Trista Francis",
     creatorImg: ava04,
@@ -111,7 +111,6 @@ export const SELLER__DATA = [
 
   {
     id: "02",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
     sellerName: "Trista Francis",
     sellerImg: ava02,
     currentBid: 5.89,
@@ -122,7 +121,6 @@ export const SELLER__DATA = [
 
   {
     id: "03",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
     sellerName: "Ryan Carder",
     sellerImg: ava03,
     currentBid: 5.89,
@@ -133,9 +131,6 @@ export const SELLER__DATA = [
 
   {
     id: "04",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
     sellerName: "Ryan Carder",
     sellerImg: ava04,
     currentBid: 5.89,
@@ -146,9 +141,6 @@ export const SELLER__DATA = [
 
   {
     id: "05",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
     sellerName: "Trista Francis",
     sellerImg: ava05,
     currentBid: 5.89,
@@ -159,9 +151,6 @@ export const SELLER__DATA = [
 
   {
     id: "06",
-
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam adipisci cupiditate officia",
-
     sellerName: "Trista Francis",
     sellerImg: ava06,
     currentBid: 5.89,
@@ -182,6 +171,7 @@ export const SELLER__DATA = [
 
   {
     id: "02",
+    sellerName: "Trista Francis",
     sellerImg: ava02,
     currentBid: 5.89,
     fbUrl: "#",
