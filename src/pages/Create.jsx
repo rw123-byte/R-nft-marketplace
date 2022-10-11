@@ -1,7 +1,11 @@
 import React from 'react'
+import CreateNfts from '../components/ui/CreateNfts/CreateNfts';
+
 const Create=() =>{
   return (
-    <div>Create</div>
+    <>
+       <CreateNfts/>
+       </>
   )
 }
 export default Create;
