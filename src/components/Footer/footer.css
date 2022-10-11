@@ -12,11 +12,11 @@
     padding-left: 0 !important;
     border: none !important;
 }
-.list_item{
+.list_item a{
     text-decoration: none;
     color: #fff;
     opacity: 85%;
-    font-size: .9rem;
+    font-size:0.9rem;
 }
 .list_item a:hover{
     color:#ffff;

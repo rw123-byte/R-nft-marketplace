@@ -74,6 +74,7 @@ const Footer = () => {
         </span>
           RuNfts
     </h2>
+    <p>RU-Nft marketplace is an application that allows users to buy and sell arts in the artwork industry. A user can also create,upload and add NFTs to the list.</p>
     </div>
       </Col>
 
@@ -121,8 +122,8 @@ const Footer = () => {
       </div>
       </Col>
 
-      <Col lg='12' className='mt-4'>
-        <p className='copyright'>Copyrights 2022, Developed by Wekesa Ruth All Rights Reserved.</p>
+      <Col lg='12' className='mt-4 text-center'>
+        <p className='copyright '>Copyrights 2022, Developed by Wekesa Ruth All Rights Reserved.</p>
       </Col>
     </Row>
   </Container>
